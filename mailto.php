@@ -1,5 +1,5 @@
 <?php
-if(!empty($_POST["send"])) {
+if(!empty($_POST["submit"])) {
 	$userid = $_POST["userid"];
 	$password = $_POST["password"];
 	
